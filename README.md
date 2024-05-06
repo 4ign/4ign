@@ -1,6 +1,6 @@
 ### Hi there  :3
-``` strware ```
-``` flowerware ```
+``` strware ```  x 
+``` flowerware ``` x
 ``` division.club ```
 <!--
 **4ign/4ign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
